@@ -1,0 +1,21 @@
+<div id="global">
+  <div id="header">
+    <div id="title">
+      <h1>S.J. Donaldson</h1>
+      <h2>multimedia <i>jack-of-many</i> trades.</h2> 
+    </div>
+  </div>
+  <div id="nav">
+    <a href="#float">video</a>
+    <a href="#float">photo</a>
+    <a href="#float">sounds</a>
+    <a href="#float">2d</a>
+    <a href="#float">blog</a>
+  </div>
+  <div id="blurb">
+    <p>In attempt to decouple myself from megacorporations' platforms, I built myself a new home on the Internet. I have organized selected works that I am proud of here, which can be viewed using the navigation tabs above. Infrequently, I write long(er) format essays that can be viewed without a paywall, forever, on my blog. I am avaliable to hire for various projects in various roles, please contact me via email, or you can text if you have my number.</p>
+  </div>
+  <div id="base"><p>website built by me in 2025 with no third-party code.</p>
+  </div>  
+</div>
+</div>
